@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @2231puppy, a young robot maker and programmer.
+- 👀 I’m interested in ESP32S2 development.
+- 🌱 I’m currently learning KiCad.
+- 💞️ I’m looking to collaborate on Python WSGI apps.
+- 📫 How to reach me: 2231puppy@micha.digital
