@@ -2,4 +2,4 @@
 - 👀 I’m interested in ESP32S2 development.
 - 🌱 I’m currently learning KiCad.
 - 💞️ I’m looking to collaborate on Python WSGI apps.
-- 📫 How to reach me: 2231puppy@micha.digital
+- 📫 How to reach me: micha@2231puppy.tech
