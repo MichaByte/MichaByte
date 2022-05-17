@@ -17,5 +17,8 @@ Skills: TS / Svelte / SvelteKit // TailwindCSS // Python / FastAPI // Godot
 - 😄 Pronouns: he/him 
 - ⚡ Fun fact: I LOVE to build robots! 
 
+![](https://dcbadge.vercel.app/api/shield/525432105224765494)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/2231puppy)  
+
+I made this profile README with [this](https://arturssmirnovs.github.io/github-profile-readme-generator/) awesome generator. If your profile looks a little boring, try it out! (They didn't make me put that there, it's just cool.)
