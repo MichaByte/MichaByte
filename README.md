@@ -17,7 +17,7 @@ Skills: TS / Svelte / SvelteKit // TailwindCSS // Python / FastAPI // Godot
 - 😄 Pronouns: he/him 
 - ⚡ Fun fact: I LOVE to build robots! 
 
-![](https://dcbadge.vercel.app/api/shield/525432105224765494)
+![](https://dcbadge.vercel.app/api/shield/525432105224765494?logoColor=presence&theme=blurple&style=flat)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/2231puppy)  
 
