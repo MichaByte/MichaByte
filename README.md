@@ -4,7 +4,7 @@
 
 *I commissioned this beautiful art of my cats from [@TheColorfulKayak](https://www.instagram.com/TheColorfulKayak/)*
 
-I think JS should be illegal 99% of the time. 3D printing is awesome. I want to learn low level development. Linux > macOS > Windows (for programming at least)
+I think JS should be illegal 99% of the time (TS is the GOAT!) 3D printing is awesome. I want to learn low level development. Linux > macOS > Windows (for programming at least)
 
 Skills: TS / Svelte / SvelteKit // TailwindCSS // Python / FastAPI // Godot
 
