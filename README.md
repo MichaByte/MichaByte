@@ -13,8 +13,8 @@ Skills: TS / Svelte / SvelteKit // TailwindCSS // Python / FastAPI // Godot
 - 👯 I’m looking to collaborate on just about anything! 
 - 🤔 I’m looking for help with whatever problems you see with my code! 
 - 💬 Ask me about 3D printing! 
-- 📫 How to reach me: Just drop me an email (my username at gmail dot com) 
-- 😄 Pronouns: he/him 
+- 📫 How to reach me: Just drop me an email (micha [at] 2231puppy dot tech) 
+- 😄 Pronouns: they/them
 - ⚡ Fun fact: I LOVE to build robots! 
 
 ![](https://dcbadge.vercel.app/api/shield/525432105224765494?logoColor=presence&theme=blurple&style=flat)
