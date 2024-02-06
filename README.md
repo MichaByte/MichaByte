@@ -8,10 +8,9 @@ I think JS should be illegal 99% of the time (TS is the GOAT!) 3D printing is aw
 
 Skills: TS / Svelte / SvelteKit // TailwindCSS // Python / FastAPI // Godot
 
-- 🔭 I’m currently working on a cool multiplayer combat-based MMO (yes, it's gonna take a while) 
-- 🌱 I’m currently learning relational database schemas. 
+- 🔭 I’m currently working on a PCB fidget toy. 
+- 🌱 I’m currently learning KiCad.
 - 👯 I’m looking to collaborate on just about anything! 
-- 🤔 I’m looking for help with whatever problems you see with my code! 
 - 💬 Ask me about 3D printing! 
 - 📫 How to reach me: Just drop me an email (micha [at] 2231puppy dot tech) 
 - 😄 Pronouns: they/them
@@ -20,5 +19,3 @@ Skills: TS / Svelte / SvelteKit // TailwindCSS // Python / FastAPI // Godot
 ![](https://dcbadge.vercel.app/api/shield/525432105224765494?logoColor=presence&theme=blurple&style=flat)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/2231puppy)  
-
-I made this profile README with [this](https://arturssmirnovs.github.io/github-profile-readme-generator/) awesome generator. If your profile looks a little boring, try it out! (They didn't make me put that there, it's just cool.)
