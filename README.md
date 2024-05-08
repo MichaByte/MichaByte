@@ -16,6 +16,6 @@ Skills: KiCad // TS / Svelte / SvelteKit // TailwindCSS // Python
 - 😄 Pronouns: they/them
 - ⚡ Fun fact: I LOVE to build robots! 
 
-![](https://dcbadge.limes.pink/api/shield/525432105224765494?logoColor=presence&theme=blurple&style=flat)
+![](https://dcbadge.limes.pink/api/shield/525432105224765494?logoColor=presence&theme=blurple)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MichaByte)  
